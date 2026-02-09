@@ -11,5 +11,6 @@ mod tests {
         assert_eq!(modulus(10, 3), 1);
         assert_eq!(modulus(20, 5), 0);
         assert_eq!(modulus(7, 2), 1);
+        
     }
 }
